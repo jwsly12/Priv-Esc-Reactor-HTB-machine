@@ -2,7 +2,7 @@ import websockets
 import json
 import asyncio
 
-target = "ws://TARGET:PORT/32d75aa9-0493-4ab3-9976-551160acb5db"
+target = "webSocketDebuggerUrl"
 
 VERMELHO = "\x1b[31m";
 VERDE = "\x1b[32m";
