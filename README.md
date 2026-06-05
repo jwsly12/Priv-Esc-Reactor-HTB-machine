@@ -35,7 +35,7 @@ python3 shell_worker.py
 
 ```
 
-# Important Note on Target Configuration
+### Important Note on Target Configuration
 
 The target variable in the script is configured with a placeholder. You must update this value to match the specific IP and Instance ID assigned to your current Hack The Box session:
 
