@@ -39,9 +39,9 @@ python3 shell_worker.py
 
 The target variable in the script is configured with a placeholder. You must update this value to match the specific IP and Instance ID assigned to your current Hack The Box session:
 
-### Change 'TARGET' and 'PORT' to the actual IP address and port of the machine
+### Change 'webSocketDebuggerUrl' for the target url
 ```bash
-target = "ws://TARGET:PORT/32d75aa9-0493-4ab3-9976-551160acb5db"
+target = "webSocketDebuggerUrl"
 
 ```
 
